@@ -2,9 +2,14 @@
 <body >
   <h5>Bem Vindo Ao Perfill!!</h5>
   <hr>
-   - 📕 Estudadante de Ciências de dados
-   - 💼 A Procurando Estágio
+   <h6 align="justify">Com ambição de tornar-me um desenvolvedor versátil e completo, permaneço comprometido com o aprendizado contínuo e estou sempre buscando novos desafios para aprimorar minhas habilidades técnicas.
+    Tenho plena consciência da importância da colaboração e estou entusiasmado em fazer parte da comunidade de desenvolvedores, compartilhando conhecimentos e contribuindo para projetos significativos.
+    Acredito que a dedicação, resiliência e a busca incessante pela excelência são fundamentais para progredir nesta empolgante jornada no universo da programação. Estou empolgado com as inúmeras possibilidades que essa área     oferece e comprometido em enfrentar cada desafio com profissionalismo e dedicação.
+  </h6>
+   - 📕 Estudadante de Ciências de dados<br>
+   - 💼 A Procurando Estágio<br>
    <br>
+   
  <fieldset>
    <div>
     <a href="https://github.com/Dev-Wesley-sl">
@@ -23,5 +28,5 @@
        <img alingn="center" alt="wesley-Pd" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
    </div>
 </fieldset>
-     
+ 
 </body>
